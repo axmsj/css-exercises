@@ -1,0 +1,19 @@
+.oddNums {
+  background-color: #ffadbb;
+  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#second {
+  color: rgb(40, 40, 226);
+  font-size: 36px;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: #4ce44c;
+  font-size: 24px;
+  font-weight: bold;
+}
